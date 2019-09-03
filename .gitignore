@@ -1,0 +1,8 @@
+*.npy
+*.gif
+*.jpg
+*.bmp
+./solution
+./gif
+./__pycache__
+./KDif
